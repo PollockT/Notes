@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="check_button">Check button</string>
+    <string name="back_arrow">Back Arrow</string>
+</resources>
